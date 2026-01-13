@@ -11,4 +11,4 @@ Futuros Updates:
 
 versao 1:
 
-É possivel armazenar varias series,passar episodios,atualizar programa sem necessidade de vir ao github atualizar
+    É possivel armazenar varias series,passar episodios,atualizar programa sem necessidade de vir ao github atualizar
