@@ -10,12 +10,15 @@ Para poder utilizar o programa necessita de ter java instalado.
 
 Basta apenas transferir o ficheiro "passarSerie.jar" disponivel no repositorio, apos transferido basta abrir a aplicação normalmente que ira abrir corretamente e criar os ficheiros de armazenamento de dados necessarios.
 
-Tem tambem no repositorio um "Desisntalar.
+Tem tambem no repositorio um "Desinstalar.jar" que ira remover a pasta de guardar os dados, CASO NAO FAÇA UM BACKUP DAS SERIES IRA PERDER TUDO, tal ação é irrevertivel.
+
 Futuros Updates:
 
--melhorar questao de ter varias series guardadas
--melhor o programa visualmente
--adicionar ficheiro de erros
+-[]Melhorar questao de ter varias series guardadas
+-[]Melhor o programa visualmente
+-[]Adicionar ficheiro de erros para ajudar no desenvolvimento e correção de bugs
+-[]Modificar o "desinstalar.jar" para que elimine a pasta,aplicação principal e se auto elimine, removendo todo o software da maquina.
+-[]Fazer tambem um update automatico para a função de desinstalar
 
 versao 1:
 
