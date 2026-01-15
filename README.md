@@ -7,14 +7,14 @@ O "versao.txt" serve apenas para controlo de versao e poder fazer o update autom
 
 Estarei sempre disposto a propostas de melhoria!
 
-🚀 Como Utilizar
+🚀 Como Utilizar:
 Para executar esta aplicação, é necessário ter o Java instalado no sistema.
 
 Transferir: Descarregue o ficheiro passarSerie.jar disponível neste repositório.
 
 Executar: Abra o ficheiro normalmente. Na primeira execução, a aplicação criará automaticamente as pastas necessárias para o armazenamento de dados.
 
-⚠️ Desinstalação e Limpeza
+⚠️ Desinstalação e Limpeza:
 Se desejar remover todos os dados da aplicação, utilize o ficheiro Desinstalar.jar.
 
 Atenção: Esta ação irá apagar a pasta de dados permanentemente. Caso não tenha um backup das suas séries, perderá tudo. Esta ação é irreversível.
