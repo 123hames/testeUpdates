@@ -14,7 +14,7 @@ Tem tambem no repositorio um "Desinstalar.jar" que ira remover a pasta de guarda
 
 Futuros Updates:
 
--[]Melhorar questao de ter varias series guardadas
+-[]Melhorar questao de ter varias series guardadas.
 -[]Melhor o programa visualmente
 -[]Adicionar ficheiro de erros para ajudar no desenvolvimento e correção de bugs
 -[]Modificar o "desinstalar.jar" para que elimine a pasta,aplicação principal e se auto elimine, removendo todo o software da maquina.
