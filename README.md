@@ -1,42 +1,54 @@
-Sobre o software:
+📺 passarSerie
+Um gestor de séries simples e eficaz, desenvolvido para quem utiliza sites alternativos e procura de manter o controlo do progresso (temporada e episódio) sem depender de contas ou registos em sites terceiros, tudo em um so sitio.
 
-Um programa desenvolvido principalmente para uso pessoal mas que pode ser util para varias pessoas que tenham o mesmo problema que eu tenho, que é nao saber em que episodio e temporada de tal serie estou e como algumas series tem novos episodios apos ter "finalizado" a serie,pois uso varios sites alternativos e gratuitos que não guardam oque ja foi visto.
-Com isso este software pode guardar varias series,atribuindo links e fazer a verificação se existem novos episodios ou não,podendo filtrar com alguns parametros.
+📝 Sobre o Software
+Este programa nasceu da necessidade pessoal de organizar o que já foi visto. Muitas plataformas gratuitas não guardam o histórico, tornando difícil saber onde parámos, especialmente quando surgem novos episódios meses depois.
 
-O "versao.txt" serve apenas para controlo de versao e poder fazer o update automaticamente na maquina do utilizador.
+Funcionalidades Principais:
 
-Estarei sempre disposto a propostas de melhoria!
+Gestão Local: Guarda as tuas séries, temporadas e episódios no teu computador.
+
+Links Diretos: Atribui links aos sites que preferes e abre-os com um clique.
+
+Verificação Automática: O software verifica se existem novos episódios com base nos teus parâmetros.
+
+Navegação Rápida: Passa para o próximo episódio e abre o navegador automaticamente.
 
 🚀 Como Utilizar:
-Para executar esta aplicação, é necessário ter o Java instalado no sistema.
+Para executar esta aplicação, necessita de ter o Java instalado no sistema.
 
-Transferir: Descarregue o ficheiro passarSerie.jar disponível neste repositório.
+Download: Descarregue o ficheiro passarSerie.jar na secção de Releases ou ficheiros do repositório.
 
-Executar: Abra o ficheiro normalmente. Na primeira execução, a aplicação criará automaticamente as pastas necessárias para o armazenamento de dados.
+Execução: Abra o ficheiro. Na primeira execução, o programa criará automaticamente os ficheiros e pastas necessários para guardar os teus dados localmente.
+
+Atualização: O ficheiro versao.txt permite que o software detete e realize updates automáticos sempre que houver melhorias.
 
 ⚠️ Desinstalação e Limpeza:
-Se desejar remover todos os dados da aplicação, utilize o ficheiro Desinstalar.jar.
+Se desejar remover o software e todos os dados guardados:
 
-Atenção: Esta ação irá apagar a pasta de dados permanentemente. Caso não tenha um backup das suas séries, perderá tudo. Esta ação é irreversível.
+Utilize o ficheiro Desinstalar.jar.
 
-Futuros Updates:
+Atenção: Esta ação elimina a pasta de dados permanentemente. Se não tiver um backup, perderá todo o progresso das séries. A ação é irreversível.
 
--[]Melhorar questao de ter varias series guardadas.
+🛠️ Roadmap (Futuras Atualizações)
+[ ] Otimização da base de dados para múltiplas séries.
 
--[]Melhor o programa visualmente
+[ ] Redesign completo da interface gráfica (UI/UX).
 
--[]Adicionar ficheiro de erros para ajudar no desenvolvimento e correção de bugs
+[ ] Implementação de Logs de Erro para facilitar a correção de bugs.
 
--[]Modificar o "desinstalar.jar" para que elimine a pasta,aplicação principal e se auto elimine, removendo todo o software da maquina.
+[ ] Melhoria do Desinstalar.jar (auto-eliminação completa do software).
 
--[]Fazer tambem um update automatico para a função de desinstalar
+[ ] Update automático para a ferramenta de desinstalação.
 
-versao 1.0:
+📋 Histórico de Versões
+v1.0 (Versão Inicial)
+Adição de séries com Nome, Link, Episódio e Temporada.
 
-Possibilidade de adicionar as series,com nome,link e opçao de alterar o episodio e temporada,caso seja uma serie que ja tenha visualizado
-Update automatico do jar
-Utilizador pode alterar os dados de serie ja existente como tambem remover alguma serie
-Passar serie e abrir no navegador automaticamente
-Verificação automatica se existe novos episodios
+Sistema de Update automático do ficheiro .jar.
 
+Edição e remoção de dados de séries existentes.
 
+Integração com o navegador para abertura automática de episódios.
+
+Algoritmo de verificação de novos episódios.
