@@ -1,7 +1,7 @@
-📺 passarSerie
+📺 passarSerie:
 Um gestor de séries simples e eficaz, desenvolvido para quem utiliza sites alternativos e procura de manter o controlo do progresso (temporada e episódio) sem depender de contas ou registos em sites terceiros, tudo em um so sitio.
 
-📝 Sobre o Software
+📝 Sobre o Software:
 Este programa nasceu da necessidade pessoal de organizar o que já foi visto. Muitas plataformas gratuitas não guardam o histórico, tornando difícil saber onde parámos, especialmente quando surgem novos episódios meses depois.
 
 Funcionalidades Principais:
@@ -30,7 +30,7 @@ Utilize o ficheiro Desinstalar.jar.
 
 Atenção: Esta ação elimina a pasta de dados permanentemente. Se não tiver um backup, perderá todo o progresso das séries. A ação é irreversível.
 
-🛠️ Roadmap (Futuras Atualizações)
+🛠️ Roadmap (Futuras Atualizações):
 [ ] Otimização da base de dados para múltiplas séries.
 
 [ ] Redesign completo da interface gráfica (UI/UX).
@@ -41,14 +41,14 @@ Atenção: Esta ação elimina a pasta de dados permanentemente. Se não tiver u
 
 [ ] Update automático para a ferramenta de desinstalação.
 
-📋 Histórico de Versões
-v1.0 (Versão Inicial)
-Adição de séries com Nome, Link, Episódio e Temporada.
+📋 Histórico de Versões:
+v1.0 (Versão Inicial):
+-Adição de séries com Nome, Link, Episódio e Temporada.
 
-Sistema de Update automático do ficheiro .jar.
+-Sistema de Update automático do ficheiro .jar.
 
-Edição e remoção de dados de séries existentes.
+-Edição e remoção de dados de séries existentes.
 
-Integração com o navegador para abertura automática de episódios.
+-Integração com o navegador para abertura automática de episódios.
 
-Algoritmo de verificação de novos episódios.
+-Algoritmo de verificação de novos episódios.
