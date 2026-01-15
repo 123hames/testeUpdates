@@ -20,6 +20,12 @@ Futuros Updates:
 -[]Modificar o "desinstalar.jar" para que elimine a pasta,aplicação principal e se auto elimine, removendo todo o software da maquina.
 -[]Fazer tambem um update automatico para a função de desinstalar
 
-versao 1:
+versao 1.0:
 
-É possivel armazenar varias series,passar episodios,atualizar programa sem necessidade de vir ao github atualizar
+Possibilidade de adicionar as series,com nome,link e opçao de alterar o episodio e temporada,caso seja uma serie que ja tenha visualizado
+Update automatico do jar
+Utilizador pode alterar os dados de serie ja existente como tambem remover alguma serie
+Passar serie e abrir no navegador automaticamente
+Verificação automatica se existe novos episodios
+
+
