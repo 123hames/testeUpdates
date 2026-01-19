@@ -52,7 +52,7 @@ Atenção: Esta ação elimina a pasta de dados permanentemente. Se não tiver u
 
 
 📋 Histórico de Versões:
-v1.0 (Versão Inicial):
+v1.0 (Versão Inicial) - 15/01/2026:
 -Adição de séries com Nome, Link, Episódio e Temporada.
 
 -Sistema de Update automático do ficheiro .jar.
