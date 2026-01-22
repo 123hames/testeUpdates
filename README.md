@@ -57,7 +57,7 @@ v1.1 - 22/01/2026(versao com erros de update ainda):
 
 Realizado um update no menu adicionar serie, se o utilizador não preencher corretamente os campos ja preenchidos mantêm-se ja preenchidos e volta a abrir o menu.
 
-(nao corrido totalmente) Erro de variavel responsavel pelo autoUpdate (SE NÃO APARECER AUTOMATICAMENTE TRANSFIRA O EXECUTAVEL NOVAMENTE,ou aguardar a versao 2, desculpe o incomodo)
+CORRIGIDO Erro de variavel responsavel pelo autoUpdate (SE NÃO APARECER AUTOMATICAMENTE TRANSFIRA O EXECUTAVEL NOVAMENTE,ou aguardar a versao 2, desculpe o incomodo)
 
 v1.0 (Versão Inicial) - 15/01/2026:
 
