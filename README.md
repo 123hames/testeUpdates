@@ -58,7 +58,7 @@ v1.1 - 22/01/2026(versao com erros de update ainda):
 
 Realizado um update no menu adicionar serie, se o utilizador não preencher corretamente os campos ja preenchidos mantêm-se ja preenchidos e volta a abrir o menu.
 
-CORRIGIDO Erro de variavel responsavel pelo autoUpdate (se não aparecer automatimente o update transfira o ficheiro "PassarSerie.jar" novamente, sem risco de perder os dados das series ou tambem podera aguarda a versao 2.0 , desculpe o incomodo)
+CORRIGIDO Erro de variavel responsavel pelo autoUpdate (se não aparecer automatimente o update transfira o ficheiro "PassarSerie.jar" novamente, sem risco de perder os dados das series ou tambem podera aguarda a versao 2.0, desculpe o incomodo)
 
 v1.0 (Versão Inicial) - 15/01/2026:
 
